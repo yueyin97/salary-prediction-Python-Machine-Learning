@@ -9,6 +9,6 @@ To run this app,
 
 2. Enter the below command lines in your cmd: 
 
-conda activate ml 
+    conda activate ml 
 
-streamlit run app.py
+    streamlit run app.py
